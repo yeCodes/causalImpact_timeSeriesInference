@@ -6,8 +6,8 @@ Causal impact analysis using counterfactual analysis to derive the impact of sho
 - ...
 
 
+Other information:
+- Critical package for analysis: Google CasualImpact
 - R files have been commented extensively 
 - Toy/ tutorial analysis and real-world simple analysis included in the folder
 - Credit to DataHeroes for vwScandal causal analysis
-
-Critical package for analysis: Google CasualImpact
